@@ -4,6 +4,7 @@
 ## Table of Contents
 * [Prompt Injection](#Prompt_Engineering_Injection)
   * [System Prompts](##Safeguards)
+  * [Outptu Constraints](##Output-Constraints)
 
 # Prompt Engineering / Injection
 
