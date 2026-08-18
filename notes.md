@@ -104,3 +104,6 @@ pip3 install -r requirements.txt
 ```python
 python main_interactive.py --inference_model_path ./data/pretrained_models/default
 ```
+
+
+![Data Flow](https://app.notion.com/p/nikhilanand/Safeguard-Case-Studies-3a4f89076c2980aa8986f040f2eced72?source=copy_link#3a4f89076c2980f3b4c5ec4d8f72dd8c)
