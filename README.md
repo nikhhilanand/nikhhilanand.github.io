@@ -1,9 +1,16 @@
 
-<details>
-  <summary><h2>Click to toggle this heading</h2></summary>
-  
-  This content is hidden inside the toggle block. You can write regular Markdown or more HTML here.
-  
+<details name="faq">
+<summary>Does it work offline?</summary>
+ 
+Yes.
+ 
+</details>
+ 
+<details name="faq">
+<summary>Is there a trial?</summary>
+ 
+No.
+ 
 </details>
 
 # hello-world
