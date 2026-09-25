@@ -1,12 +1,12 @@
 
-<details name="faq">
+<details>
 <summary>Does it work offline?</summary>
  
 Yes.
  
 </details>
  
-<details name="faq">
+<details>
 <summary>Is there a trial?</summary>
  
 No.
