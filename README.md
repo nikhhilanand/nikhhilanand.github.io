@@ -1,3 +1,11 @@
+
+<details>
+  <summary><h2>Click to toggle this heading</h2></summary>
+  
+  This content is hidden inside the toggle block. You can write regular Markdown or more HTML here.
+  
+</details>
+
 # hello-world
 Hello World repository for Git tutorial
 This is an example repository for the Git tutorial on https://www.w3schools.com
